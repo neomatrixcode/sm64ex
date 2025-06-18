@@ -25,6 +25,16 @@ For example `--savepath .` will read saves from the current directory (which not
    `--savepath '!'` will read saves from the executable directory.
 
 ## Building
-For building instructions, please refer to the [wiki](https://github.com/sm64pc/sm64ex/wiki).
+For building instructions, please refer to the [wiki](https://github.com/neomatrixcode/sm64ex/wiki).
+
+[Compiling‐on‐Windows](https://github.com/neomatrixcode/sm64ex/wiki/Compiling%E2%80%90on%E2%80%90Windows.md)
+
+[Compiling on Linux](https://github.com/neomatrixcode/sm64ex/wiki/Compiling-on-Linux)
+
+[Compiling for the web](https://github.com/neomatrixcode/sm64ex/wiki/Compiling-for-the-web)
+
+[Compiling on FreeBSD](https://github.com/neomatrixcode/sm64ex/wiki/Compiling-on-FreeBSD)
+
+
 
 **Make sure you have MXE first before attempting to compile for Windows on Linux and WSL. Follow the guide on the wiki.**
